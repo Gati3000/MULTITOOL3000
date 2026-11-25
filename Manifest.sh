@@ -1,0 +1,6 @@
+Gere_Lab_Url="https://github.com/Gati3000/Gere-Lab.git"
+Gere_Lab_Home="/root/Gere-Lab"
+Gere_Lab_Port="8080"
+Debian_12="debian-12-standard"
+Debian_13="debian-13-standard"
+Tailscale_Url="https://tailscale.com/install.sh"
