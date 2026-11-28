@@ -8,8 +8,8 @@ Load() {
 }
 
 Load Manifest.sh
-Load Lib/Common.sh
-Load Easy.conf
+Load Gere-Lab/Proxmox/Lib/Common.sh
+Load Gere-Lab/Proxmox/Easy.conf
 
 Banner
 Check_Host
